@@ -1,0 +1,28 @@
+name: Kingdom Test
+favicon: null
+layout_spectrum: 0.44535598321817815
+typography_spectrum: 0.776956795481965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4773242864757776
+  lightness: 0.11631664074957371
+  saturation: 0.06522209360264242
+  rhythmicContrast: 0.8776542495470494
+purpose: []
